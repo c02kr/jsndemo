@@ -1,14 +1,96 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "payment_items": [
+    {
+      "id": 1,
+      "primary_text": "Bank Accounts",
+      "secondary_text": "Manage your bank transactions",
+      "image": "img1.jpg",
+      "category": "Money"
+    },
+    {
+      "id": 2,
+      "primary_text": "Scan and Pay",
+      "secondary_text": "Quick and secure payments with scanning",
+      "image": "img2.jpg",
+      "category": "Money"
+    },
+    {
+      "id": 13,
+      "primary_text": "Mint",
+      "secondary_text": "Grow your savings. 3x faster",
+      "image": "img3.jpg",
+      "category": "Money"
+    },
+    {
+      "id": 3,
+      "primary_text": "Rewards",
+      "secondary_text": "Earn exciting rewards for your transactions",
+      "image": "img4.jpg",
+      "category": "Benefits"
+    },
+    {
+      "id": 4,
+      "primary_text": "Coins",
+      "secondary_text": "Use virtual coins for in-app purchases",
+      "image": "img5.jpg",
+      "category": "Benefits"
+    },
+    {
+      "id": 5,
+      "primary_text": "Vouchers",
+      "secondary_text": "Redeem vouchers for discounts and offers",
+      "image": "img6.jpg",
+      "category": "Benefits"
+    },
+    {
+      "id": 6,
+      "primary_text": "Brand Offers",
+      "secondary_text": "Exclusive discounts from your favorite brands",
+      "image": "img7.jpg",
+      "category": "Benefits"
+    },
+    {
+      "id": 7,
+      "primary_text": "Utility Bills",
+      "secondary_text": "Pay your utility bills hassle-free",
+      "image": "img8.jpg",
+      "category": "Bills"
+    },
+    {
+      "id": 8,
+      "primary_text": "All Bills",
+      "secondary_text": "One-stop solution for all your bills",
+      "image": "img9.jpg",
+      "category": "Bills"
+    },
+    {
+      "id": 9,
+      "primary_text": "Credit Card Bills",
+      "secondary_text": "Manage and pay your credit card bills",
+      "image": "img10.jpg",
+      "category": "Bills"
+    },
+    {
+      "id": 10,
+      "primary_text": "House Rent",
+      "secondary_text": "Securely pay your house rent online",
+      "image": "img11.jpg",
+      "category": "Bills"
+    },
+    {
+      "id": 11,
+      "primary_text": "Education Fees",
+      "secondary_text": "Pay your education fees conveniently",
+      "image": "img12.jpg",
+      "category": "Bills"
+    },
+    {
+      "id": 12,
+      "primary_text": "Test Fees",
+      "secondary_text": "Easily handle payments for tests and exams",
+      "image": "img13.jpg",
+      "category": "Bills"
+    }
+  ]
 }
+
